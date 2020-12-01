@@ -1,13 +1,12 @@
 # DESAFIO 3 - STI
 
-## • Descrição
+## • Descrição:
 Este projeto trata-se da solução do problema apresentado logo abaixo diante de um processo seletivo realizado pela Superintendência de Tecnologia da Informação da Universidade Federal Fluminense (STI-UFF).
 
-## • DESAFIO:
+## • Desafio:
 #### from (https://github.com/sti-uff/trabalhe-conosco/blob/master/Desafios.md)
 
 ```bash
-## Desafio 3
 
 Você precisa calcular o CR de alunos de uma universidade. Para isto será preciso ler de um [arquivo csv](datasets/notas.csv) a lista de notas dos alunos e, de acordo com as notas e os critérios da universidade, calcular o CR de todos os alunos. Ao final do processo, será preciso mostrar na tela o CR de todos os alunos e qual a média de CR dos cursos.
 
