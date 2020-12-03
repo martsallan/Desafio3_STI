@@ -40,7 +40,7 @@ class CalCR:
         print("------- O CR dos alunos é: --------")
         for aluno in alunosTotal:
             cr = aluno.getCR()
-            print(f'{aluno.getMatricula():3} - {aluno.getCR():.1f}')
+            print(f'{aluno.getMatricula():3}  -  {aluno.getCR():.1f}')
 
 #Classe responsável com funções para tratar do cálculo de CR médio do curso
 class CalCR_curso:
@@ -91,5 +91,5 @@ class CalCR_curso:
             i.setDocumento(indicesNovos)
             media  = i.verificarMedia()
 
-            print(f'{i.getCodCurso():3} - {media:.1f}')
+            print(f'{i.getCodCurso():3}  -  {media:.1f}')
         print("-----------------------------------")
